@@ -1,0 +1,13 @@
+.product{
+    display: grid;
+    grid-template-columns: repeat(4, 100px) 1fr;
+    border: 2px solid black;
+    gap: 0px;
+    background-color: rgb(122, 122, 171);
+    margin: 20px;
+    padding: 130px;
+}
+
+.item{
+    background-color: green;
+}
